@@ -17,17 +17,17 @@ return [
     'enable' => true,
 
     'transactional' => [
-        'App\Events',
+        // 'App\Events',
     ],
 
     'excluded' => [
         // 'eloquent.*',
-        'eloquent.booted',
-        'eloquent.retrieved',
-        'eloquent.saved',
-        'eloquent.updated',
-        'eloquent.created',
-        'eloquent.deleted',
-        'eloquent.restored',
+        // 'eloquent.booted',
+        // 'eloquent.retrieved',
+        // 'eloquent.saved',
+        // 'eloquent.updated',
+        // 'eloquent.created',
+        // 'eloquent.deleted',
+        // 'eloquent.restored',
     ],
 ];
