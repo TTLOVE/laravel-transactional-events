@@ -3,7 +3,7 @@
 namespace Neves\Events;
 
 use Illuminate\Support\Str;
-use drupol\phptree\Node\ValueNode;
+use loophp\phptree\Node\ValueNode;
 use Illuminate\Support\Collection;
 use Neves\Events\Contracts\TransactionalEvent;
 use Neves\Events\Concerns\DelegatesToDispatcher;
