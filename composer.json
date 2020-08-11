@@ -1,5 +1,5 @@
 {
-    "name": "fntneves/laravel-transactional-events",
+    "name": "ttlove/laravel-transactional-events",
     "description": "Transaction-aware Event Dispatcher for Laravel",
     "type": "library",
     "license": "MIT",
